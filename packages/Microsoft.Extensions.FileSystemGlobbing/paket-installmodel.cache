@@ -1,0 +1,16 @@
+D: /_rels
+F: /_rels/.rels
+D: /lib
+D: /lib/netstandard2.0
+F: /lib/netstandard2.0/Microsoft.Extensions.FileSystemGlobbing.dll
+F: /lib/netstandard2.0/Microsoft.Extensions.FileSystemGlobbing.xml
+D: /package
+D: /package/services
+D: /package/services/metadata
+D: /package/services/metadata/core-properties
+F: /package/services/metadata/core-properties/3077bf40e10e44409062910af2f2ee80.psmdcp
+F: /microsoft.extensions.filesystemglobbing.3.1.3.nupkg
+F: /[Content_Types].xml
+F: /Icon.png
+F: /.signature.p7s
+F: /Microsoft.Extensions.FileSystemGlobbing.nuspec

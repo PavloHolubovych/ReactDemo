@@ -1,0 +1,15 @@
+D: /_rels
+F: /_rels/.rels
+D: /lib
+D: /lib/netcoreapp3.1
+F: /lib/netcoreapp3.1/Microsoft.AspNetCore.NodeServices.dll
+D: /package
+D: /package/services
+D: /package/services/metadata
+D: /package/services/metadata/core-properties
+F: /package/services/metadata/core-properties/5d51cb3932e641cc91d1ad715f184558.psmdcp
+F: /[Content_Types].xml
+F: /Icon.png
+F: /microsoft.aspnetcore.nodeservices.3.1.3.nupkg
+F: /.signature.p7s
+F: /Microsoft.AspNetCore.NodeServices.nuspec
